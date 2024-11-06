@@ -31,8 +31,8 @@ Execute os testes com o comando:
 
 ## Para testar no Postman
 
-**GET /users:** Lista todos os usuários.
-**GET /users/{id}:** Busca um usuário pelo ID.
+**GET /users:** Lista todos os usuários.<br>
+**GET /users/{id}:** Busca um usuário pelo ID.<br>
 **POST /users:** Cria um novo usuário. 
 
 No corpo, envie um 
@@ -42,6 +42,5 @@ No corpo, envie um
 }
 ```
 
-**PUT /users/{id}:** Atualiza um usuário. No corpo, envie o JSON com os dados atualizados.
-
+**PUT /users/{id}:** Atualiza um usuário. No corpo, envie o JSON com os dados atualizados.<br>
 **DELETE /users/{id}:** Deleta um usuário.
