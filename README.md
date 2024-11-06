@@ -43,4 +43,5 @@ No corpo, envie um
 ```
 
 **PUT /users/{id}:** Atualiza um usuário. No corpo, envie o JSON com os dados atualizados.
+
 **DELETE /users/{id}:** Deleta um usuário.
