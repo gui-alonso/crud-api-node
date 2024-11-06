@@ -38,7 +38,7 @@ Execute os testes com o comando:
 No corpo, envie um 
 ```json {
 "name": "Tom Hanks", "email": "tom@example.com"
-}.
+}
 ```
 
 **PUT /users/{id}:** Atualiza um usuário. No corpo, envie o JSON com os dados atualizados.
