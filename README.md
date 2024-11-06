@@ -36,7 +36,8 @@ Execute os testes com o comando:
 **POST /users:** Cria um novo usuário. 
 
 No corpo, envie um 
-```json {
+```json 
+{
 "name": "Tom Hanks", "email": "tom@example.com"
 }
 ```
